@@ -1,4 +1,4 @@
-# Using Primitive Types
+# Using User Input
 
 A series of exercises to help you explore how to create simple user interactions and how to use primitive types to create a basic user experience.  You will also get a gradual introduction to some JS best practices including:
 
